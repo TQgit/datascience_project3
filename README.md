@@ -8,7 +8,7 @@ For project 3, your goal is three-fold:
 
 1. Define a domain, issue, and problem that you are interested in (preferably with local/regional relevance).
 2. Collect, clean, and submit the data the Kaggle datasets repository under the course's organization.
-3. Submit the data collectiong and lceaning kernel in public associated to the published dataset.
+3. Submit the data collection and cleaning kernel in public associated to the published dataset.
 
 
 #### Readings
